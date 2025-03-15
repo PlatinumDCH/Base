@@ -1,0 +1,17 @@
+get_len_for_loop executed: 12.573306 sec
+get_len_replace_method executed: 2.915751 sec
+get_len_use_sum executed: 14.589526 sec
+get_len_use_filter executed: 25.189472 sec
+get_len_use_re executed: 14.385995 sec
+
+get_len_for_loop executed: 0.012217 sec
+get_len_replace_method executed: 0.002868 sec
+get_len_use_sum executed: 0.013229 sec
+get_len_use_filter executed: 0.022550 sec
+get_len_use_re executed: 0.008693 sec
+
+get_len_for_loop executed: 0.012196 sec
+get_len_replace_method executed: 0.002839 sec
+get_len_use_sum executed: 0.013222 sec
+get_len_use_filter executed: 0.022586 sec
+get_len_use_re executed: 0.008812 sec
